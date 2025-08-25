@@ -66,7 +66,7 @@ public:
         Libro* libro = buscarLibro(tituloPrestamo);
         if (libro == nullptr) {
             std::cout << "El libro no esta en la biblioteca";
-        } else if (libro->estaDisponible==true) {
+        } else if (!libro->estaDisponible) {
             std::cout << "El libro ya esta prestado";
         } else {
             libro->estaDisponible = false;
