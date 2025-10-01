@@ -52,6 +52,6 @@ Cada vez que se modifica la base de datos, los cambios quedan guardados.
 4. Gestionar Préstamos
 5. Consultas
 6. Salir
-Seleccione una opción: ###1
+Seleccione una opción: "1"
 
 Al elegir 1, aparece el submenú para CRUD de autores.
