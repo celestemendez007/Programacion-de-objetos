@@ -45,3 +45,13 @@ Cada vez que se modifica la base de datos, los cambios quedan guardados.
 - Consultar autor(es) con más libros registrados.
 
 ## Ejemplo de uso
+¿Qué quieres hacer?
+1. Gestionar Autores
+2. Gestionar Libros
+3. Gestionar Estudiantes
+4. Gestionar Préstamos
+5. Consultas
+6. Salir
+Seleccione una opción: ###1
+
+Al elegir 1, aparece el submenú para CRUD de autores.
