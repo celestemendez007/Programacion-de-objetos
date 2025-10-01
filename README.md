@@ -33,3 +33,5 @@ erDiagram
     AUTOR ||--o{ LIBRO : "escribe"
     LIBRO ||--o{ PRESTAMO : "se presta en"
     ESTUDIANTE ||--o{ PRESTAMO : "realiza"
+
+Eliminado README.md (dejado vacío)
